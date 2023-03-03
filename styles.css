@@ -1,0 +1,23 @@
+.hidden {
+    display: none;
+  }
+  body{
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size : cover;
+    background-attachment: fixed;
+  }
+  li,p,a{
+    color: rgb(25, 215, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  li{
+    list-style-type:none;
+  }
+  li,ul{
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+  }
